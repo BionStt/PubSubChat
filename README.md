@@ -6,9 +6,7 @@ Publisher / Subscriber with SignalR core
 
 [1]: https://datasift.github.io/gitflow/IntroducingGitFlow.html "Git Flow"
 
-2) Download or clone the repository from [Github](https://github.com/abcamitan/PubSubChat.git)
-
-3) Technology and tools to be used in this project.
+2) Technology and tools to be used in this project.
 
 * [ASP.NET Core][1] - Web framework that can be deployed in Windows, MacOS and Linux
 * [SignalR Core][2] - For real-time publishing of messages
@@ -20,9 +18,17 @@ Publisher / Subscriber with SignalR core
 [3]: https://www.github.com "Github"
 [4]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test "XUnit"
 
-4) Use [TDD][1] principles in development
+3) Use [TDD][1] principles in development
 
 [1]: https://en.wikipedia.org/wiki/Test-driven_development "TDD"
+
+4) Download or clone the repository from [Github](https://github.com/abcamitan/PubSubChat.git)
+
+5) Then, run below commande to download all required packages:
+
+~~~~
+dotnet restore
+~~~~
 
 ## Architectural Design
 
