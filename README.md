@@ -12,11 +12,13 @@ Publisher / Subscriber with SignalR core
 * [SignalR Core][2] - For real-time publishing of messages
 * [GitHub][3] - for repository control
 * [XUnit][4] - Unit testing tool
+* [vscode][5] - Use Visual Studio Code to build and run the projects
 
 [1]: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1 "ASP.Net Core"
 [2]: https://docs.microsoft.com/en-us/aspnet/core/signalr/?view=aspnetcore-2.1 "SignalR"
 [3]: https://www.github.com "Github"
 [4]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test "XUnit"
+[5]: https://code.visualstudio.com/download "Visual Studio Code"
 
 3) Use [TDD][1] principles in development
 
