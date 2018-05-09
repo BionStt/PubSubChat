@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using PubSubChat.Data;
 using PubSubChat.Services;
+using PubSubChat.Hubs;
 
 namespace PubSubChat
 {

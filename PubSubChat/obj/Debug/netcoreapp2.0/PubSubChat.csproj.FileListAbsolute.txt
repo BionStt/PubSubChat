@@ -1,0 +1,12 @@
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/app.db
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/PubSubChat.deps.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/PubSubChat.runtimeconfig.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/PubSubChat.runtimeconfig.dev.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/PubSubChat.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/bin/Debug/netcoreapp2.0/PubSubChat.pdb
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/PubSubChat.csproj.CoreCompileInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/PubSubChat.AssemblyInfoInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/PubSubChat.AssemblyInfo.cs
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/PubSubChat.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat/obj/Debug/netcoreapp2.0/PubSubChat.pdb
