@@ -10,12 +10,19 @@ Publisher / Subscriber with SignalR core
 
 3) Technology and tools to be used in this project.
 
-* [ASP.NET Core - Web framework that can be deployed in Windows, MacOS and Linux](`https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1`)
-* [SignalR Core - For real-time publishing of messages](`https://docs.microsoft.com/en-us/aspnet/core/signalr/?view=aspnetcore-2.1`)
-* [GitHub - for repository control](`https://www.github.com`)
-* [XUnit - Unit testing tool](`https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test`)
+* [ASP.NET Core][1] - Web framework that can be deployed in Windows, MacOS and Linux
+* [SignalR Core][2] - For real-time publishing of messages
+* [GitHub][3] - for repository control
+* [XUnit][4] - Unit testing tool
 
-4) [Use TDD principles in development](`https://en.wikipedia.org/wiki/Test-driven_development`)
+[1]: https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1 "ASP.Net Core"
+[2]: https://docs.microsoft.com/en-us/aspnet/core/signalr/?view=aspnetcore-2.1 "SignalR"
+[3]: https://www.github.com "Github"
+[4]: https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test "XUnit"
+
+4) Use [TDD][1] principles in development
+
+[1]: https://en.wikipedia.org/wiki/Test-driven_development "TDD"
 
 ## Architectural Design
 
