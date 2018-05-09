@@ -49,3 +49,5 @@ dotnet test ./PubSubChat.Tests/PubSubChat.Tests.csproj
 In this design, we use SignalR core's Hub class to publish messages. Then, all subscribed client will receive all messages being posted at the Hub.
 
 ![Alt](http://gdurl.com/bE2Z)
+
+The power of SignalR is that any type of client can subscribe to the system. It can be from Node.js, React.js, Angular.js, or any languages who supports SignalR connection.
