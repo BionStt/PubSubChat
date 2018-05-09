@@ -44,6 +44,17 @@ namespace PubSubChat
             // Register no-op EmailSender used by account confirmation and password reset during development
             // For more information on how to enable account confirmation and password reset please visit https://go.microsoft.com/fwlink/?LinkID=532713
             services.AddSingleton<IEmailSender, EmailSender>();
+
+            // Add Cross Domain policy
+            services.AddCors(options => options.AddPolicy("CorsPolicy", 
+            builder => 
+            {
+                builder.AllowAnyMethod().AllowAnyHeader()
+                       .WithOrigins("http://localhost:5000")
+                       .AllowCredentials();
+            }));
+
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -64,6 +75,13 @@ namespace PubSubChat
             app.UseAuthentication();
 
             app.UseMvc();
+
+            app.UseCookiePolicy();
+
+            app.UseSignalR(routes =>
+            {
+                routes.MapHub<ChatHub>("/hubs/chat");
+            });
         }
     }
 }
