@@ -14,7 +14,7 @@ namespace PubSubChat.Tests
         }   
 
         [Fact]
-        public void SendTestMessage()
+        public void SendMessageTest()
         {
             Assert.ThrowsAsync<Exception>(async () => await _publisherHub.PublishMessage("Hello from the machine!"));
         }
