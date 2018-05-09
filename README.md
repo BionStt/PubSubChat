@@ -32,7 +32,19 @@ Publisher / Subscriber with SignalR core
 dotnet restore
 ~~~~
 
-## Architectural Design
+6) To build and run the Web App, execute below command:
+
+~~~~
+dotnet run -p ./PubSubChat/PubSubChat.csproj
+~~~~
+
+7) To build and run the Test cases, execute below command:
+
+~~~~
+dotnet test ./PubSubChat.Tests/PubSubChat.Tests.csproj
+~~~~
+
+## Technical Design
 
 <To-do here>
 

@@ -1,0 +1,17 @@
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.csproj.CoreCompileInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.AssemblyInfoInputs.cache
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.AssemblyInfo.cs
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/app.db
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.Tests.deps.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.Tests.runtimeconfig.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.Tests.runtimeconfig.dev.json
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.Tests.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.Tests.pdb
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/bin/Debug/netcoreapp2.0/PubSubChat.pdb
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.csproj.CopyComplete
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.dll
+/Volumes/BOOTCAMP/project/aspnet_core/PubSubChat/PubSubChat.Tests/obj/Debug/netcoreapp2.0/PubSubChat.Tests.pdb
