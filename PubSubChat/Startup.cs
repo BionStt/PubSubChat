@@ -81,6 +81,7 @@ namespace PubSubChat
             app.UseSignalR(routes =>
             {
                 routes.MapHub<ChatHub>("/hubs/chat");
+                routes.MapHub<PublisherHub>("/hubs/publish");
             });
         }
     }

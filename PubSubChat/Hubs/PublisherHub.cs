@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.SignalR;
 namespace PubSubChat.Hubs
 {
     [Authorize]
-    public class PublisherHub : IPublisherHub
+    public class PublisherHub : Hub
     {
         public async Task PublishMessage(string message)
         {
