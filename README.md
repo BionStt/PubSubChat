@@ -62,6 +62,6 @@ The Hub class managing the subscription and publishing of messages.
 
 ### Flow Overview
 
-Below the overview of how the flow look like on a high level diagram when client connects, send message and disconnects. 
+Below the overview of how the flow look like on a high level diagram. There are three methods here being triggered by the client, this is when connects, send message and disconnects. 
 
 ![Flow](http://gdurl.com/vVss)
