@@ -51,3 +51,17 @@ In this design, we use SignalR core's Hub class to publish messages. Then, all s
 ![Alt](http://gdurl.com/bE2Z)
 
 The power of SignalR is that any type of client can subscribe to the system. It can be from Node.js, React.js, Angular.js, or any languages who supports SignalR connection.
+
+### Class Overview
+
+In this project, I create a ChatHub in which inherited from Hub class of SignalR core.
+
+![Alt](http://gdurl.com/jmPa)
+
+The Hub class managing the subscription and publishing of messages.
+
+### Flow Overview
+
+Below the overview of how the flow look like on a high level diagram when client connects, send message and disconnects. 
+
+![Alt](http://gdurl.com/vVss)
